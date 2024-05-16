@@ -27,4 +27,4 @@ Attached is a query that includes:
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 # Works Cited
-My code is comprised of help from ChatGPT, old in class assignments, as well as some outside help in regards to specifially the schema tables being created. I do not clame entire originality of code as ChatGPT and old assignments helped me map out a great majority of it. I feel as if I used my resources correctly and provided an accurate homework solution.
+My code is comprised of help from ChatGPT, old in class assignments, as well as some outside help in regards to specifially the schema tables being created. I do not claim entire originality of code as ChatGPT and old assignments helped me map out a great majority of it. I feel as if I used my resources correctly and provided an accurate homework solution.
