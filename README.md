@@ -1,4 +1,5 @@
 # sql-challenge
+All necessary files can be found in the EmployeeSQL folder
 
 # Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
@@ -24,3 +25,6 @@ Attached is a query that includes:
 - List each employee in the Sales department, including their employee number, last name, and first name.
 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+# Works Cited
+My code is comprised of help from ChatGPT, old in class assignments, as well as some outside help in regards to specifially the schema tables being created. I do not clame entire originality of code as ChatGPT and old assignments helped me map out a great majority of it. I feel as if I used my resources correctly and provided an accurate homework solution.
